@@ -1,27 +1,29 @@
 [EN]
 - Hi, I’m Paweł
-- I’m interested in software development and game-making, still haven't decided what I want to specialize in.
-- I know Python, Java, C, C++ and I know a bit of Javascript, C# and Scala
-- I'm a 2nd-year CS student at Univeristy of Gdańsk
-- I'm looking for any kind of new experience with programming :D
+- I'm into low-level programming, security & game development and also web apps.
+- I know Python, Java and C pretty well, currently learning C# and diving into Javascript
+- I also did a bit of Arduino work
+- I'm a 3rd-year CS student at Univeristy of Gdańsk
+- Open to any kind of programming experience
 - You can contact me through my e-mail: pawelrandzio99@gmail.com
 
 [PL]
 - Cześć, mam na imię Paweł
-- Interesuję się rozwojem oprogramowania i tworzeniem gier, nadal nie zdecydowałem w czym chciałbym się specjalizować
-- Znam Pythona, Javę, C, C++ i wiem trochę o Javascripcie, C# i Scali
-- Jestem studentem drugiego roku Informatyki na Uniwersytecie Gdańskim
-- Chętnie zdobędę każde nowe doświadczenie w programowaniu :D
+- Lubię programowanie niskopoziomowe, rozwój oprogramowania security, tworzenie gier i apki webowe.
+- Dobrze znam Pythona, Javę i C, aktualnie uczę się też C# oraz trochę Javascriptu
+- Bawiłem się też trochę Arduino
+- Jestem studentem trzeciego roku Informatyki na Uniwersytecie Gdańskim
+- Chętnie zdobędę każde nowe doświadczenie w programowaniu
 - Możesz się ze mną skontaktować przez mój e-mail: pawelrandzio99@gmail.com
 
 [DE]
 - Hallo, ich bin Paweł
-- Softwareentwicklung und Spieleherstellung interresieren mir, 
-  aber habe ich nicht jetzt entschieden, worauf ich mich spezialisieren möchte
-- Ich kenne Python, Java, C und C++; Ich kenne auch ein bisschen Javascript, C# und Scala
-- Ich bin Student an der Universität Danzig
-- Ich suche nach neuen Erfahrungen mit der Programmierung :D
-- Sie können mich über meine E-Mail-Adresse kontaktieren: pawelrandzio99@gmail.com
+- Ich interessiere mich für Low-Level-Programmierung, Sicherheits- und Spieleentwicklung und auch für Web-Apps
+- Ich kenne Python, Java und C ziemlich gut, lerne derzeit C# und tauche in Javascript ein
+- Ich habe auch ein bisschen Arduino-Arbeit gemacht
+- Ich studiere Informatik im 3. Jahr an der Universität Danzig
+- Ich bin offen für jede Art von Programmiererfahrung
+- Sie können mich über meine E-Mail kontaktieren: pawelrandzio99@gmail.com
 
 <!---
 prandzio99/prandzio99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
