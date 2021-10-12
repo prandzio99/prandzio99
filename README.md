@@ -1,4 +1,4 @@
-[EN]
+[EN] - C1/C2 level
 - Hi, I’m Paweł
 - I'm into low-level programming, security & game development and also web apps.
 - I know Python, Java and C pretty well, currently learning C# and diving into Javascript
@@ -7,7 +7,7 @@
 - Open to any kind of programming experience
 - You can contact me through my e-mail: pawelrandzio99@gmail.com
 
-[PL]
+[PL] - Native
 - Cześć, mam na imię Paweł
 - Lubię programowanie niskopoziomowe, rozwój oprogramowania security, tworzenie gier i apki webowe.
 - Dobrze znam Pythona, Javę i C, aktualnie uczę się też C# oraz trochę Javascriptu
@@ -16,7 +16,7 @@
 - Chętnie zdobędę każde nowe doświadczenie w programowaniu
 - Możesz się ze mną skontaktować przez mój e-mail: pawelrandzio99@gmail.com
 
-[DE]
+[DE] - B1
 - Hallo, ich bin Paweł
 - Ich interessiere mich für Low-Level-Programmierung, Sicherheits- und Spieleentwicklung und auch für Web-Apps
 - Ich kenne Python, Java und C ziemlich gut, lerne derzeit C# und tauche in Javascript ein
