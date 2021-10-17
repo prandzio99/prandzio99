@@ -16,7 +16,7 @@
 - Chętnie zdobędę każde nowe doświadczenie w programowaniu
 - Możesz się ze mną skontaktować przez mój e-mail: pawelrandzio99@gmail.com
 
-[DE] - B1
+[DE] - B1 level
 - Hallo, ich bin Paweł
 - Ich interessiere mich für Low-Level-Programmierung, Sicherheits- und Spieleentwicklung und auch für Web-Apps
 - Ich kenne Python, Java und C ziemlich gut, lerne derzeit C# und tauche in Javascript ein
