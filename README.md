@@ -1,7 +1,7 @@
 [EN] - C1/C2 level
 - Hi, I’m Paweł
 - I'm into low-level programming, security & game development and also web apps.
-- I know Python, Java and C pretty well, currently learning C# and diving into Javascript
+- I know Python, Java and C/C++ pretty well, currently learning C#
 - I also did a bit of Arduino work
 - I'm a 3rd-year CS student at Univeristy of Gdańsk
 - Open to any kind of programming experience
@@ -10,16 +10,16 @@
 [PL] - Native
 - Cześć, mam na imię Paweł
 - Lubię programowanie niskopoziomowe, rozwój oprogramowania security, tworzenie gier i apki webowe.
-- Dobrze znam Pythona, Javę i C, aktualnie uczę się też C# oraz trochę Javascriptu
+- Dobrze znam Pythona, Javę i C/C++, aktualnie uczę się też C#
 - Bawiłem się też trochę Arduino
 - Jestem studentem trzeciego roku Informatyki na Uniwersytecie Gdańskim
 - Chętnie zdobędę każde nowe doświadczenie w programowaniu
 - Możesz się ze mną skontaktować przez mój e-mail: pawelrandzio99@gmail.com
 
-[DE] - B1 level
+[DE] - A2/B1 level
 - Hallo, ich bin Paweł
 - Ich interessiere mich für Low-Level-Programmierung, Sicherheits- und Spieleentwicklung und auch für Web-Apps
-- Ich kenne Python, Java und C ziemlich gut, lerne derzeit C# und tauche in Javascript ein
+- Ich kenne Python, Java und C/C++ ziemlich gut, lerne derzeit C#
 - Ich habe auch ein bisschen Arduino-Arbeit gemacht
 - Ich studiere Informatik im 3. Jahr an der Universität Danzig
 - Ich bin offen für jede Art von Programmiererfahrung
