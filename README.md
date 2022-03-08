@@ -1,29 +1,11 @@
-[EN] - C1/C2 level
-- Hi, I’m Paweł
-- I'm into low-level programming, security & game development and also web apps.
-- I know Python, Java and C/C++ pretty well, currently learning C#
-- I also did a bit of Arduino work
+
+- Web apps, low-level programming & security
+- Python, Java, C/C++, C#, learning Ruby
+- Did some Arduino once
 - I'm a 3rd-year CS student at Univeristy of Gdańsk
+- Intern at Intel Poland
 - Open to any kind of programming experience
 - You can contact me through my e-mail: pawelrandzio99@gmail.com
-
-[PL] - Native
-- Cześć, mam na imię Paweł
-- Lubię programowanie niskopoziomowe, rozwój oprogramowania security, tworzenie gier i apki webowe.
-- Dobrze znam Pythona, Javę i C/C++, aktualnie uczę się też C#
-- Bawiłem się też trochę Arduino
-- Jestem studentem trzeciego roku Informatyki na Uniwersytecie Gdańskim
-- Chętnie zdobędę każde nowe doświadczenie w programowaniu
-- Możesz się ze mną skontaktować przez mój e-mail: pawelrandzio99@gmail.com
-
-[DE] - A2/B1 level
-- Hallo, ich bin Paweł
-- Ich interessiere mich für Low-Level-Programmierung, Sicherheits- und Spieleentwicklung und auch für Web-Apps
-- Ich kenne Python, Java und C/C++ ziemlich gut, lerne derzeit C#
-- Ich habe auch ein bisschen Arduino-Arbeit gemacht
-- Ich studiere Informatik im 3. Jahr an der Universität Danzig
-- Ich bin offen für jede Art von Programmiererfahrung
-- Sie können mich über meine E-Mail kontaktieren: pawelrandzio99@gmail.com
 
 <!---
 prandzio99/prandzio99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
