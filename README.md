@@ -1,8 +1,8 @@
 
-- Web apps, low-level programming & security
-- Python, Java, C/C++, C#, learning Ruby
+- Low-level programming, security & fun with algorithms
+- C/C++, Python, Java, C#
 - Did some Arduino once
-- I'm a 3rd-year CS student at Univeristy of Gdańsk
+- I'm a 4th-year CS student at Gdańsk University of Technology
 - Intern at Intel Poland
 - Open to any kind of programming experience
 - You can contact me through my e-mail: pawelrandzio99@gmail.com
