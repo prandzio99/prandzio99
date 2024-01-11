@@ -1,9 +1,9 @@
 
-- Low-level programming, security & fun with algorithms
-- C/C++, Python, Java, C#
-- Did some Arduino once
-- I'm a 4th-year CS student at Gdańsk University of Technology
-- Intern at Intel Poland
+- Low-level programming and cybersecurity
+- C and Python with some C++ and x86 Assembly
+- Did some Arduino once or twice
+- I'm a 5th-year CS student at Gdańsk University of Technology
+- Silicon FW Development Engineer at Intel Poland
 - Open to any kind of programming experience
 - You can contact me through my e-mail: pawelrandzio99@gmail.com
 
